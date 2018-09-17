@@ -1,0 +1,98 @@
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Connection Establish for : 10.2.114.68:22
+145  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "MEMBERID"
+241  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "SITEID"
+308  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "REGID"
+378  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c cd C:\Program Files\ITSPlatform\config  & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+452  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+1453 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+1477 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+2478 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+2499 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+3499 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+4772 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506Connection Establish for : 10.2.114.68:22
+4873 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+5874 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+5895 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+6896 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+6928 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+7929 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Connection Establish for : 10.2.114.68:22
+147  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "MEMBERID"
+256  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "SITEID"
+325  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "REGID"
+400  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c cd C:\Program Files\ITSPlatform\config  & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+451  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+1451 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+1474 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+2474 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+2502 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+3502 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+3912 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506Connection Establish for : 10.2.114.68:22
+4019 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+5019 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+5051 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+6061 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+6089 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+7089 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Connection Establish for : 10.2.114.68:22
+144  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "MEMBERID"
+226  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "SITEID"
+299  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "REGID"
+358  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c cd C:\Program Files\ITSPlatform\config  & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+407  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+1409 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+1432 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+2433 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+2448 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+3449 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+3722 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506Connection Establish for : 10.2.114.68:22
+3811 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+4813 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+4860 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+5861 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+5878 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+6890 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Connection Establish for : 10.2.114.68:22
+146  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "MEMBERID"
+217  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "SITEID"
+310  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\SAAZOD /v "REGID"
+376  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901Command is:cmd /c cd C:\Program Files\ITSPlatform\config  & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+431  [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+1431 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+1469 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+2471 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+2492 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> channel is connected
+3493 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E-C3790901-> exit-status: 0
+3780 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506Connection Establish for : 10.2.114.68:22
+3871 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+4871 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+4905 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+5906 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+5930 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> channel is connected
+6931 [main] INFO  continuum.cucumber.Page.Ssh  - Validate auto update functionality E2E wrt 3rd party package and custom installer-C3813506-> exit-status: 0
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validation of information returned by version plugin-C3685604Connection Establish for : 10.2.114.113:22
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validation of information returned by version plugin-C3685604Connection Establish for : 10.2.114.113:22
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validation of information returned by version plugin-C3685604Connection Establish for : 10.2.114.113:22
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validation of information returned by version plugin-C3685604Connection Establish for : 10.2.114.113:22
+0    [main] INFO  continuum.cucumber.Page.Ssh  - Validate Global Manifest Payload is getting created for N no of Days-C3604832Connection Establish for : 10.2.114.113:22
+1057 [main] INFO  continuum.cucumber.stepDefinations.desktop.JunoPlatformStepDefination  - Validate Global Manifest Payload is getting created for N no of Days-C3604832 URL is -> 
+22293 [main] INFO  continuum.cucumber.Page.Ssh  - Validate the Mapping of Old RMM Agent with New Juno Agent-C1933173,C1933167Connection Establish for : 10.2.114.113:22
+22571 [main] INFO  continuum.cucumber.Page.Ssh  - Validate the Mapping of Old RMM Agent with New Juno Agent-C1933173,C1933167Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "MEMBERID"
+23449 [main] INFO  continuum.cucumber.Page.Ssh  - Validate the Mapping of Old RMM Agent with New Juno Agent-C1933173,C1933167Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "SITEID"
+23954 [main] INFO  continuum.cucumber.Page.Ssh  - Validate the Mapping of Old RMM Agent with New Juno Agent-C1933173,C1933167Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "REGID"
+24170 [main] INFO  continuum.cucumber.Page.Ssh  - Validate the Mapping of Old RMM Agent with New Juno Agent-C1933173,C1933167Command is:cmd /c cd C:\Program Files (x86)\ITSPlatform\config & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+24386 [main] INFO  continuum.cucumber.stepDefinations.desktop.JunoPlatformStepDefination  - Validate the Mapping of Old RMM Agent with New Juno Agent-C1933173,C1933167 URL is -> 
+149952 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Connection Establish for : 10.2.114.113:22
+150361 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "MEMBERID"
+150666 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "SITEID"
+151096 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "REGID"
+151356 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c cd C:\Program Files (x86)\ITSPlatform\config & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+151761 [main] INFO  continuum.cucumber.stepDefinations.desktop.JunoPlatformStepDefination  - Validate REST endpoint for Registration POST API-C179500 URL is -> 
+162249 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Connection Establish for : 10.2.114.113:22
+162648 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "MEMBERID"
+163125 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "SITEID"
+163367 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "REGID"
+164360 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c cd C:\Program Files (x86)\ITSPlatform\config & C:\jq-win32.exe -r ".EndPointID" platform_agent_core_cfg.json
+164763 [main] INFO  continuum.cucumber.stepDefinations.desktop.JunoPlatformStepDefination  - Validate REST endpoint for Registration POST API-C179500 URL is -> 
+175325 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Connection Establish for : 10.2.114.113:22
+175767 [main] INFO  continuum.cucumber.Page.Ssh  - Validate REST endpoint for Registration POST API-C179500Command is:cmd /c reg query HKEY_LOCAL_MACHINE\SOFTWARE\Wow6432Node\SAAZOD /v "MEMBERID"
