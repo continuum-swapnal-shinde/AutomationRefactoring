@@ -44,7 +44,7 @@ public class GlobalVariables extends JunoPageFactory{
 	public static String UTCFormatSystemTime = "";
 	public static String responseAfterDecompression = "";
 
-	public static String execOnThisOS = "Win8_64Bit";
+	public static String execOnThisOS = "Win7_64Bit";
 	
 	public static String jenkinsOsName = null;
 	public static String registrationJsonWrite = System.getProperty("user.dir") + "\\IntegrationInput.json";
